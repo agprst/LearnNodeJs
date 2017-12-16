@@ -3,14 +3,14 @@ var nodemailer = require('nodemailer');
 var transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
-    user: 'agung.diabloic@gmail.com',
-    pass: '21102312'
+    user: 'wdwdwd@gmail.com',
+    pass: 'password'
   }
 });
 
 var mailOptions = {
   from: 'wkwkland@gmailawdawfawd.com',
-  to: 'agungofficial@gmail.com',
+  to: 'awdafawdadaw@gmail.com',
   subject: 'Senwdwd',
   text: 'That was easy!'
 };
